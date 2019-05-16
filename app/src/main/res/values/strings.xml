@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmailSample</string>
+    <string name="email_app_txt">Email App</string>
+    <string name="compse_msg">Complete the fields to send an email</string>
+    <string name="recipient_txt">Recipient</string>
+    <string name="subject_txt">Subject</string>
+    <string name="message_body_txt">Message body</string>
+    <string name="compose_txt">Compose</string>
+</resources>
